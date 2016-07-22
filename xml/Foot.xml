@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="FootersTest">
+
+    <test name="FooterTry">
+        <classes>
+            <class name="kismia.tests.FooterTesting"/>
+        </classes>
+
+    </test>
+    <test name="LangTry">
+        <classes>
+            <class name="kismia.tests.LangTest"/>
+        </classes>
+
+    </test>
+
+</suite>
